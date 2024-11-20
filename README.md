@@ -1,5 +1,5 @@
 # Spotify Display
-A simple HTML website that displays what song you're currently listening to using your Discord presence. Powered by [Lanyard](https://github.com/Phineas/lanyard).
+A simple HTML website that displays what song you're currently listening to on Spotify using your Discord presence. Powered by [Lanyard](https://github.com/Phineas/lanyard).
 
 ![Spotify Display Preview](https://cdn.nest.rip/uploads/1a72fc22-9563-4c14-8091-ae2ac57c6921.png)
 
