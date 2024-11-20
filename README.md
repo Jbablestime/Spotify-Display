@@ -3,3 +3,6 @@ A simple HTML website that displays what song you're currently listening to usin
 
 ## Setup
 1. Change the URL in `script.js` to your Discord ID.
+
+## Note
+You **MUST** be in the [Lanyard Discord](https://discord.com/invite/lanyard) for it to work.
