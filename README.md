@@ -4,8 +4,7 @@
 # Spotify Display
 In this repository is some simple code to integrate a Spotify display into your HTML/CSS/JS website. Spotify Display uses your Discord profile to get what you're currently listening to on Spotify. This project is powered by [Lanyard](https://github.com/Phineas/lanyard).
 
-![Preview](https://cdn.nest.rip/uploads/1a72fc22-9563-4c14-8091-ae2ac57c6921.png)
-
+![Preview](https://cdn.nest.rip/uploads/ca166ca4-7aab-4d69-a6d7-6425371d8c34.png)
 ## Get Started
 1. Join the [Lanyard Discord](https://discord.com/invite/lanyard)
 2. Go to `script.js` and change the URL to `https://api.lanyard.rest/v1/users/[YOUR-DISCORD-ID]`
