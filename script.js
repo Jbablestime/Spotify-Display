@@ -43,6 +43,7 @@ document.addEventListener("DOMContentLoaded", function(){
         coverImage.style.display = "block"
         coverImage.src = spotify.album_art_url;
         songInfo.style.display = "block"
+		songDuration.style.display = "block"
         songName.innerHTML = `<a target="_blank" href="https://open.spotify.com/track/${spotify.track_id}" style="text-decoration: none; color: white;">${spotify.song}</a>`;
         songInfo.innerHTML = `By <span style="color: #9A6CA7;">${spotify.artist}</span> on <span style="color: #9A6CA7;">${spotify.album}</span>`;
 		songDuration.innerHTML = `<span style="color: #1ED760; background-color: #101010; padding-left: 1.5px; padding-right: 1.5px;">${msToMinSeconds(timeElapsed)}</span> - <span style="color: #1ED760; background-color: #101010; padding-left: 1.5px; padding-right: 1.5px;">${msToMinSeconds(songLength)}</span>`
@@ -50,6 +51,7 @@ document.addEventListener("DOMContentLoaded", function(){
         coverImage.style.display = "none"
         songName.textContent = `${discordUsername}'s not currently listening to Spotify`
         songInfo.style.display = "none"
+		songDuration.style.display = "none"
       }
     }
   
