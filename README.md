@@ -1,5 +1,5 @@
 > [!NOTE]
-> Lanyard is not assciated with Jbablestime. This being said please abide by all of their Terms and Conditions.
+> I am not affiliated with Lanyard or their team.
 
 # Spotify Display
 In this repository is some simple code to integrate a Spotify display into your HTML/CSS/JS website. Spotify Display uses your Discord profile to get what you're currently listening to on Spotify. This project is powered by [Lanyard](https://github.com/Phineas/lanyard).
